@@ -1,10 +1,8 @@
 [
-  { "label": "sheddy.xyz", "url": "https://sheddy.xyz" },
-  { "label": "pullbase", "url": "https://pullbase.io" },
-  { "label": "goignore", "url": "https://github.com/hacktivist123/goignore" },
-  { "label": "kpeek", "url": "https://github.com/hacktivist123/kpeek" },
-  { "label": "devops-learning-plan", "url": "https://github.com/hacktivist123/devops-learning-plan" },
-  { "label": "golang-jwt-demo", "url": "https://github.com/hacktivist123/golang-jwt-demo" },
-  { "label": "deploy-static-site-to-katapult", "url": "https://github.com/hacktivist123/deploy-static-site-to-katapult" },
-  { "label": "go-playground", "url": "https://github.com/hacktivist123/go-playground" }
+  { "label": "Yinka.xyz", "url": "https://www.notion.so/How-to-write-an-Arbitrum-Contract-with-Stylus-24d1a367c168805e9164f54d061e5e0b?source=copy_link" },
+  { "label": "Wallet", "url": "https://github.com/methu-ship/Wallets" },
+  { "label": "Merkle Proofs", "url": "https://github.com/methu-ship/Merkle_Proof" },
+  { "label": "Relayer", "url": "https://github.com/methu-ship/Relayer" },
+  { "label": "Arbitrum Data Exporter", "url": "https://github.com/methu-ship/Arbitrum-Data-Exporter" },
+  { "label": "Blockchain Indexer", "url": "https://github.com/methu-ship/Blockchain-Indexer" }
 ]

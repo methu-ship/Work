@@ -142,11 +142,11 @@
     try {
       let el = createLine(`<span class="prompt">$</span> <span class="command"></span>`);
       await typeText(el.querySelector('.command'), 'whoami');
-      createLine('<span class="output">shedrack@sheddy.work</span>');
+      createLine('<span class="output">Yinka@yhinkz.work</span>');
 
       el = createLine(`<span class="prompt">$</span> <span class="command"></span>`);
-      await typeText(el.querySelector('.command'), 'echo "DevOps playground"');
-      createLine('<span class="output">DevOps playground</span>');
+      await typeText(el.querySelector('.command'), 'echo "Web3 playground"');
+      createLine('<span class="output">Web3 playground</span>');
 
       el = createLine(`<span class="prompt">$</span> <span class="command"></span>`);
       await typeText(el.querySelector('.command'), 'ls');
