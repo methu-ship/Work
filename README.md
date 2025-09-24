@@ -1,4 +1,4 @@
-# sheddy.work
+# Yinka.work
 
 
 A terminal-style homepage for my personal projects that auto-discovers project domains & subdomains from a `projects.json` file.
