@@ -1,5 +1,8 @@
 [
   { "label": "Yinka.xyz", "url": "https://yinkaxyz.vercel.app/blog" },
+  { "label": "Portfolio", "url": "https://fanatical-check-fe0.notion.site/Portfolio-c6b3092e0154470190009c77ec60c099" },
+  { "label": "Medium", "url": "https://yinkaabeeb.medium.com/"},
+  
   { "label": "Wallet", "url": "https://github.com/methu-ship/Wallets" },
   { "label": "Merkle Proofs", "url": "https://github.com/methu-ship/Merkle_Proof" },
   { "label": "Relayer", "url": "https://github.com/methu-ship/Relayer" },
